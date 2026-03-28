@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Rikki
+# Penultimate year of Bachelor of Software Engineering
+# Interested in algorithms, simulations, performance and testing
 
 <!--
 **Rikki-Wallis/Rikki-Wallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
