@@ -1,6 +1,6 @@
 ## Hi I'm Rikki
-# Penultimate year of Bachelor of Software Engineering
-# Interested in algorithms, simulations, performance and testing
+### - Penultimate Year, Software Engineering
+### - Interested in algorithms, simulations, performance and testing
 
 <!--
 **Rikki-Wallis/Rikki-Wallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
