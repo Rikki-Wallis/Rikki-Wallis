@@ -1,7 +1,14 @@
-## Hi I'm Rikki
-### - Penultimate Year, Software Engineering
-### - Interested in algorithms, simulations, performance and testing
-
+                \||/
+                |  @___oo
+      /\  /\   / (__,,,,|
+     ) /^\) ^\/ _)
+     )   /^\/   _)
+     )   _ /  / _)
+ /\  )/\/ ||  | )_)
+<  >      |(,,) )__)
+ ||      /    \)___)\
+ | \____(      )___) )___
+  \______(_______;;; __;;;
 <!--
 **Rikki-Wallis/Rikki-Wallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
